@@ -4,3 +4,8 @@ cd .. -> sai da pasta
 touch nome do arquivo -> cria arquivo
 mkdir -> nome da pasta - cria uma pasta
 mkdir nome da pasta -> apaga a pasta
+
+git status -> mostra o estado do git 
+git add . -> adiciona os arquivos da pasta no monitoramento do git 
+git commit -m "mensagem do commit" -> registra as mudanças realizadas 
+git push -> envia as mudanças para a nuvem 
